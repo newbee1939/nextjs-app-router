@@ -9,7 +9,7 @@ export async function ServerComponent() {
   const boxStyle = {
     width: "400px",
     height: "300px",
-    backgroundColor: "purple",
+    backgroundColor: "#006400",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
