@@ -12,6 +12,7 @@ export default async function Home() {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
+        marginTop: "200px",
       }}
     >
       <ClientComponent />
